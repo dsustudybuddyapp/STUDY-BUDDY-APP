@@ -71,8 +71,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
   - Users can go back to the Assignments Screen without saving.
 
 ## Wireframes
-
-[Add picture of your hand sketched wireframes in this section] <img src="https://drive.google.com/file/d/1dBQ7YP0j0p0ePpU8YHqgs5352zL1pdgZ/view?usp=sharing" width=600>
+![Study Buddy Wireframe](https://drive.google.com/uc?export=view&id=1dBQ7YP0j0p0ePpU8YHqgs5352zL1pdgZ)
 
 <br>
 
