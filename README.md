@@ -72,7 +72,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add picture of your hand sketched wireframes in this section] <img src="https://drive.google.com/file/d/1dBQ7YP0j0p0ePpU8YHqgs5352zL1pdgZ/view?usp=sharing" width=600>
 
 <br>
 
