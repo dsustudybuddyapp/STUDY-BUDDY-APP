@@ -77,29 +77,22 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 <br>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 <br>
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![Our Group Milestones](https://drive.google.com/file/d/11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm/view?usp=sharing)
 
 ## Issue cards
-
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![This Units Sprint Project Board Issues](https://drive.google.com/file/d/1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p/view?usp=sharing)
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
+**FINISH BY THURSDAY**
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Connor: Completed the XML/View for the Assignment Creation Screen. Needs to Implement the save button so that way it can be sent over to the main view.
+**Put Gif or Picture of Milestone 2 Progress BY THURSDAY**
 
 <br>
 
@@ -111,11 +104,10 @@ this section]
 
 ## Completed user stories
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+- As a student, I want to access an Add Assignment Screen so that I can enter information about my assignments. [COMPLETED BY CONNOR LITTLE]
 
-[Add video/gif of your current application that shows build progress]
+
+[Add video/gif of your current application that shows build progress] -- **NEED TO BE DONE BY THURSDAY**
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## App Demo Video
