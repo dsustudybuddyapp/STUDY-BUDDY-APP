@@ -71,7 +71,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
   - Users can go back to the Assignments Screen without saving.
 
 ## Wireframes
-![Study Buddy Wireframe](https://drive.google.com/uc?export=view&id=1dBQ7YP0j0p0ePpU8YHqgs5352zL1pdgZ)
+<img src="https://drive.google.com/uc?export=view&id=1dBQ7YP0j0p0ePpU8YHqgs5352zL1pdgZ" width=600>
 
 <br>
 
@@ -82,11 +82,10 @@ An app that helps students stay organized by keeping track of assignments, upcom
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-
-![Our Group Milestones](https://drive.google.com/file/d/11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm/view?usp=sharing)
+<img src="https://drive.google.com/file/d/11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm/view?usp=sharing" width=600>
 
 ## Issue cards
-![This Units Sprint Project Board Issues](https://drive.google.com/file/d/1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p/view?usp=sharing" width=600>
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 **FINISH BY THURSDAY**
 ## Issues worked on this sprint
