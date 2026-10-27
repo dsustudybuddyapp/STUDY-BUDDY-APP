@@ -83,9 +83,16 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 ## GitHub Project board
 <img src="https://drive.google.com/file/d/11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm/view?usp=sharing" width=600>
+<br>
+
+<br>
 
 ## Issue cards
 <img src="https://drive.google.com/file/d/1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p/view?usp=sharing" width=600>
+<br>
+
+<br>
+
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 **FINISH BY THURSDAY**
 ## Issues worked on this sprint
