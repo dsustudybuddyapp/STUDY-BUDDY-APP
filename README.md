@@ -82,13 +82,13 @@ An app that helps students stay organized by keeping track of assignments, upcom
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-<img src="https://drive.google.com/file/d/11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm/view?usp=sharing" width=600>
+<img src="https://drive.google.com/uc?export=view&id=11to1bFQ6IX-KLr7OXL4szNqbC6VsxZCm" width="600">
 <br>
 
 <br>
 
 ## Issue cards
-<img src="https://drive.google.com/file/d/1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p/view?usp=sharing" width=600>
+<img src="https://drive.google.com/uc?export=view&id=1-XAEuPyfsVfDsFwxOku0T-7IwlsHLF4p" width="600">
 <br>
 
 <br>
