@@ -99,7 +99,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 - Connor: Completed the XML/View for the Assignment Creation Screen. Needs to Implement the save button so that way it can be sent over to the main view.
 - Erika: Completed the XML for the Assignment List Screen. Need to implement navigation buttons so the user can go to the homescreen.
-**Put Gif or Picture of Milestone 2 Progress BY THURSDAY**
+<img src="https://imgur.com/a/cx1Q2Tl" alt="Milestone 2 Gif" width="200">
 
 <br>
 
@@ -112,7 +112,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 ## Completed user stories
 
 - As a student, I want to access an Add Assignment Screen so that I can enter information about my assignments. [COMPLETED BY CONNOR LITTLE]
-- As a student, I want to see a list of all my available and completed assignments. [COMPLETED BY ERIKA SUBER-BEY]
+- As a student, I want to see a list of all my available and completed assignments. [COMPLETED BY ERIKA SUBER-BEY]  
 
 
 [Add video/gif of your current application that shows build progress] -- **NEED TO BE DONE BY THURSDAY**
