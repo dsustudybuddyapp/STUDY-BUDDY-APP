@@ -1,46 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fillViewport="true">
+    android:orientation="vertical">
 
-    <LinearLayout
-        android:id="@+id/main"
+    <ScrollView
+        android:id="@+id/assignmentList"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="24dp">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Assignments"
-            android:textSize="26sp"
-            android:gravity="center"
-            android:layout_marginBottom="24dp" />
-
-        <TextView
-            android:id="@+id/emptyAssignmentsText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="No assignments yet"
-            android:textSize="16sp"
-            android:gravity="center"
-            android:paddingTop="24dp"
-            android:paddingBottom="24dp" />
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
 
         <LinearLayout
-            android:id="@+id/assignmentsContainer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" />
+            android:orientation="vertical"
+            android:padding="24dp">
 
-        <Button
-            android:id="@+id/addAssignmentButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
-            android:text="Add Assignment" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Assignments"
+                android:textSize="26sp"
+                android:gravity="center"
+                android:layout_marginBottom="24dp" />
 
-    </LinearLayout>
-</ScrollView>
+            <TextView
+                android:id="@+id/emptyAssignmentsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No assignments yet"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:paddingTop="24dp"
+                android:paddingBottom="24dp" />
+
+            <LinearLayout
+                android:id="@+id/assignmentsContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ViewStub
+        android:id="@+id/addAssignmentStub"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout="@layout/activity_add_assignment" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:labelVisibilityMode="unlabeled"
+        app:menu="@menu/bottom_navigation_menu" />
+
+</LinearLayout>
