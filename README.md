@@ -106,7 +106,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://drive.google.com/file/d/1KryFb0hl7V14U8NQlYnyvc7IezQK4hiM/view?usp=sharing" width="600">
 
 ## Completed user stories
 
