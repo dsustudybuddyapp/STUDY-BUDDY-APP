@@ -93,8 +93,6 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 <br>
 
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-**FINISH BY THURSDAY**
 ## Issues worked on this sprint
 
 - Connor: Completed the XML/View for the Assignment Creation Screen. Needs to Implement the save button so that way it can be sent over to the main view.
@@ -106,7 +104,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 
 ## GitHub Project board
 
-<img src="https://drive.google.com/file/d/1KryFb0hl7V14U8NQlYnyvc7IezQK4hiM/view?usp=sharing" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1KryFb0hl7V14U8NQlYnyvc7IezQK4hiM" width="600">
 
 ## Completed user stories
 
