@@ -113,7 +113,7 @@ An app that helps students stay organized by keeping track of assignments, upcom
 - As a student, I want to access an Add Assignment Screen so that I can enter information about my assignments. [COMPLETED BY CONNOR LITTLE]
 - As a student, I want to see a list of all my available and completed assignments. [COMPLETED BY ERIKA SUBER-BEY]  
 
-<img src="./studybuddy.gif" alt="Milestone 2 gif" width="200">
+<img src="" alt="Milestone 2 gif" width="200">
 
 ## App Demo Video
 
